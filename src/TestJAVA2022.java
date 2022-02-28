@@ -17,5 +17,6 @@ public class TestJAVA2022 {
         System.out.println("2022.2.29");
         System.out.println("2022.2.29");
         System.out.println("2022.2.29");
+        System.out.println("2022.2.29");
     }
 }
